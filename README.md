@@ -64,10 +64,6 @@ Then open http://localhost:8501 in your browser.
 | how to take user input | How do I take input from the user? |
 | who won the cricket world cup | Not sure (outside the knowledge base) |
 
-## Screenshots
-
-_Add 2-3 screenshots here: the welcome screen, an answer with a code example, and the "not sure" reply._
-
 ## Limitations and Future Work
 
 - The bot only knows the topics in its knowledge base. Adding more entries expands what it can answer.
